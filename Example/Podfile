@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ARWorld_Example' do
+  pod 'ARWorld', :path => '../'
+
+  target 'ARWorld_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
