@@ -1,0 +1,16 @@
+PODS:
+  - ARWorld (0.1.0)
+
+DEPENDENCIES:
+  - ARWorld (from `../`)
+
+EXTERNAL SOURCES:
+  ARWorld:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ARWorld: 4bd91231855337d0838baf8e17dd45f4be070734
+
+PODFILE CHECKSUM: 28cef5b1d8c9dc14c261eabf81e774289885f8fb
+
+COCOAPODS: 1.2.1

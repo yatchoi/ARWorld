@@ -1,0 +1,6 @@
+framework module ARWorld {
+  umbrella header "ARWorld-umbrella.h"
+
+  export *
+  module * { export * }
+}
